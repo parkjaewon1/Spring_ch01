@@ -1,4 +1,4 @@
-package samp15;
+package samp17;
 import java.util.Date;
 public class Member {
 	private String id;  	private String pass; 	private String name;
